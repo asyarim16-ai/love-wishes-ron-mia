@@ -76,8 +76,8 @@ export const quizQuestions: QuizQuestion[] = [
     correctIndex: 1,
   },
   {
-    question: "Какой фильм я могу пересматривать бесконечно?",
-    options: ["Титаник", "Горбатая гора", "1+1"],
+    question: "Что мне нравится в тебе больше всего?",
+    options: ["Открытость", "Доброта", "Юмор"],
     correctIndex: 0,
   },
   {
